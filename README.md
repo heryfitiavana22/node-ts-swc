@@ -39,4 +39,4 @@ For production
 
 [TypeScript](https://github.com/Microsoft/TypeScript)
 
-[TypeScript](https://github.com/nodejs/node)
+[Node](https://github.com/nodejs/node)
