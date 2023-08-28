@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "resolveJsonModule": true,
+        "allowJs": true,
+        "moduleResolution": "Bundler"
+    },
+    "ts-node": {
+        "swc": true
+    }
+}
