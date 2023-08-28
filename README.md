@@ -6,6 +6,24 @@ A starter for NodeJS with TypeScript using SWC for faster transpilation.
 
 - Faster compilation and building with SWC
 
+## TypeScript with SWC
+
+First, install `@swc/core` :
+
+```bash
+  npm install @swc/core
+```
+
+Then add the following to your tsconfig.json.
+
+```json
+{
+  "ts-node": {
+    "swc": true
+  }
+}
+```
+
 ## Usage
 
 Clone this repository
